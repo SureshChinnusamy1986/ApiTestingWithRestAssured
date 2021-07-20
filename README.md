@@ -8,5 +8,6 @@
 Test your code using https://reqres.in/
 
 
-![image](https://user-images.githubusercontent.com/45145716/126315848-bfefc9eb-c401-48e2-9f80-cc66d7566a3a.png)
+![image](https://user-images.githubusercontent.com/45145716/126316042-a4e9cb4f-000a-45c0-b7e8-04c28ceaebd9.png)
+
 
